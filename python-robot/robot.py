@@ -101,6 +101,7 @@ examples = [
     "Grandpa says he loves you and will call later.",
     "Your friend shared a funny meme with you.",
     "Reminder: Your library books are due next week."
+    ]
 
 ]
 
