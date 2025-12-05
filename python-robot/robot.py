@@ -11,7 +11,7 @@
 
 SECRET_WORDS = ["password", "passcode", "pin", "ssn", "social security", "login"]
 MONEY_WORDS = ["card number", "credit card", "bank account", "wire money", "gift card"]
-RUSH_WORDS   = ["right now", "immediately", "urgent", "act fast", "or else"]
+RUSH_WORDS = ["right now", "immediately", "urgent", "act fast", "or else"]
 
 
 def check_message(message: str):
@@ -84,10 +84,12 @@ def recommendation(result: str) -> str:
 # Just put a comma at the end of each line, except the last one.
 
 examples = [
-   examples = [
+    # Neutral / mixed messages
     "Hi! I can help with your homework.",
     "Type your password and card number right now to keep your account open.",
     "We noticed a problem with your account. Act fast or it may be closed.",
+
+    # Scammy / danger messages
     "You won a free phone, click here!",
     "Grandma, can you send me your bank number?",
     "Your package is delayed, log in with your password to fix it.",
@@ -95,16 +97,15 @@ examples = [
     "Hi, this is your school. We need your parent’s login right now to update your account.",
     "Your friend sent you a surprise video! Click urgently to watch.",
     "We noticed suspicious activity. Confirm your Social Security number immediately.",
-    "Congratulations! You’re our lucky winner. Pay a small fee to receive your prize."
+    "Congratulations! You’re our lucky winner. Pay a small fee to receive your prize.",
+
+    # Safe messages
     "Hey! Just checking in — how was your day?",
     "Your teacher posted tomorrow’s homework on the class website.",
     "Grandpa says he loves you and will call later.",
     "Your friend shared a funny meme with you.",
     "Reminder: Your library books are due next week."
-    ]
-
 ]
-
 
 
 # ---------------------------------------------
