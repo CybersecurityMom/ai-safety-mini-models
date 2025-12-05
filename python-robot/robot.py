@@ -96,6 +96,12 @@ examples = [
     "Your friend sent you a surprise video! Click urgently to watch.",
     "We noticed suspicious activity. Confirm your Social Security number immediately.",
     "Congratulations! You’re our lucky winner. Pay a small fee to receive your prize."
+    "Hey! Just checking in — how was your day?",
+    "Your teacher posted tomorrow’s homework on the class website.",
+    "Grandpa says he loves you and will call later.",
+    "Your friend shared a funny meme with you.",
+    "Reminder: Your library books are due next week."
+
 ]
 
 
