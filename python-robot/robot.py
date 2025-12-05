@@ -37,5 +37,22 @@ examples = [
     "We noticed a problem with your account. Act fast or it may be closed."
 ]
 
-for msg in examples:
-    print(msg, "=>", check_message(msg))
+def pretty_label(result: str) -> str:
+    """Turn 'safe'/'careful'/'danger' into a nice icon + word."""
+    if result == "safe":
+        return "🟢 SAFE"
+    elif result == "careful":
+        return "🟡 CAREFUL"
+    else:
+        return "🔴 DANGER"
+
+if __name__ == "__main__":
+    print("=========== Tiny AI Safety Robot ===========\n")
+    for i, msg in enumerate(examples, start=1):
+        result = check_message(msg)
+        label = pretty_label(result)
+        print(f"Message {i}:")
+        print(f"  {msg}")
+        print(f"  Result: {label}\n")
+    print("============================================")
+
