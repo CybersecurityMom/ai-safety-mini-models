@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./SAFEAIBanner-GitHub-Banner.png" alt="AI Safety Mini Models Banner" width="100%">
+  <img src="./SAFEAIBanner-GitHub-Banner.png
+" alt="AI Safety Mini Models Banner" width="100%">
 </p>
 
 # 🧸🛡️ AI Safety Mini Models  
