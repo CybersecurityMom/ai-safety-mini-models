@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="./SAFEAIBanner-GitHub-Banner.png
-" alt="AI Safety Mini Models Banner" width="100%">
+  <img src="assets/SAFEAIBanner-GitHub-Banner.png?raw=true" alt="AI Safety Mini Models Banner" width="100%">
 </p>
+
 
 # 🧸🛡️ AI Safety Mini Models  
 Simple, friendly AI safety tools for kids, families, seniors, and small businesses.
