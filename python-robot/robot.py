@@ -84,24 +84,20 @@ def recommendation(result: str) -> str:
 # Just put a comma at the end of each line, except the last one.
 
 examples = [
+   examples = [
     "Hi! I can help with your homework.",
     "Type your password and card number right now to keep your account open.",
     "We noticed a problem with your account. Act fast or it may be closed.",
-
-    # 👉 You can add more messages like these:
-    "You won a free prize! Click this link right now!",
-    "I am your bank. Please send your SSN so we can confirm your identity.",
-    "Hey friend, just checking in. How was your day?"
     "You won a free phone, click here!",
     "Grandma, can you send me your bank number?",
-    "Your package is delayed, log in with your password to fix it."
+    "Your package is delayed, log in with your password to fix it.",
     "You’ve been selected for a special reward! Enter your card number to claim it.",
-"Hi, this is your school. We need your parent’s login right now to update your account.",
-"Your friend sent you a surprise video! Click urgently to watch.",
-"We noticed suspicious activity. Confirm your Social Security number immediately.",
-"Congratulations! You’re our lucky winner. Pay a small fee to receive your prize."
-
+    "Hi, this is your school. We need your parent’s login right now to update your account.",
+    "Your friend sent you a surprise video! Click urgently to watch.",
+    "We noticed suspicious activity. Confirm your Social Security number immediately.",
+    "Congratulations! You’re our lucky winner. Pay a small fee to receive your prize."
 ]
+
 
 
 # ---------------------------------------------
