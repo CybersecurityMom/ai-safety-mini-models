@@ -1,12 +1,18 @@
+<p align="center">
+  <img src="./SAFEAIBanner-GitHub-Banner.png" alt="AI Safety Mini Models Banner" width="100%">
+</p>
+
 # 🧸🛡️ AI Safety Mini Models  
-Simple, friendly threat detection tools for kids, families, seniors, and small businesses.
+Simple, friendly AI safety tools for kids, families, seniors, and small businesses.
 
-This repository contains:
-- **3 human-friendly AI threat detection models**
+This repository includes:
+
+- **3 human-friendly AI safety models**
 - **A tiny Python robot that detects dangerous messages**
-- **Activities, teaching tools, workshops, and worksheets**
+- **Activities, worksheets, and workshop tools**
+- **Beginner-focused learning materials for all ages**
 
-All designed to be:
+Everything here is designed to be:
 - Simple  
 - Explainable  
 - Fun  
@@ -14,77 +20,91 @@ All designed to be:
 
 ---
 
-# 🌟 Included Models
+# 🌟 Included AI Safety Models
 
-### 1. **S.A.F.E. – Source, Ask, Feel, Exit**
-A kid/senior-friendly threat check for AI messages, pop-ups, and chatbots.
+### 1. **S.A.F.E. – Source, Ask, Feel, Exit**  
+A gentle, confidence-building safety check for AI messages, chatbots, and pop-ups.  
+Perfect for kids, seniors, and new tech learners.
 
-### 2. **L.E.A.P. – Look, Evaluate, Act, Protect**
-A small-business, adult-beginner model for decision-making with AI tools.
+### 2. **L.E.A.P. – Look, Evaluate, Act, Protect**  
+A practical decision-making model for small business teams and adult beginners.  
+Helps users slow down, understand context, and respond wisely.
 
-### 3. **C.A.T.S. – Check, Ask, Think, Stop**
-A cartoon-style AI safety model perfect for kids and classrooms.
+### 3. **C.A.T.S. – Check, Ask, Think, Stop**  
+A cartoon-style AI safety model ideal for classrooms and youth programs.  
+Simple, memorable, and fun for early learners.
 
-Models are located here:  
+📁 Models are located here:  
 `models/`
 
 ---
 
 # 🤖 Tiny Python Threat Detection Robot
 
-This is a fun, friendly script that reads messages and labels them:
+A friendly, explainable script that reads messages and labels them:
 
 - 🟢 **safe**  
 - 🟡 **careful**  
 - 🔴 **danger**
 
-It teaches beginners how a rules-based threat detector works.
+It shows beginners how a rules-based threat detector works — using plain language, transparent logic, and fun examples.
 
-📂 Files: `python-robot/`
-
-- `robot.py` — The robot’s brain  
-- `instructions.md` — How to run it (kid-friendly & senior-friendly)
+📂 Files located in `python-robot/`  
+- **`robot.py`** — The robot’s brain  
+- **`instructions.md`** — How to run it (kid-friendly & senior-friendly)
 
 ---
 
 # 🎨 Activities & Teaching Tools
 
-Located in `activities/`
+All resources inside:  
+`activities/`
 
+Includes:
 - Tiny Python Robot Activity Sheet  
 - Kids’ AI Detective Game  
 - C.A.T.S. Classroom Game  
-- Seniors S.A.F.E. Wallet Card  
+- Seniors’ S.A.F.E. Wallet Card  
 - Small Business LEAP Checklist  
 
 Perfect for:
 - Workshops  
 - Classrooms  
 - Libraries  
-- Senior programs  
-- Small business staff training  
+- Senior centers  
+- Small business training  
+- Community digital safety events  
 
 ---
 
 # 🎯 Purpose
 
-This repo was created to help:
-- Kids learn AI safety in simple steps  
-- Seniors navigate online messages with confidence  
-- Small business employees understand threat signals  
-- Educators teach cybersecurity without fear or jargon  
+This project was created to help:
 
-Everything here is **gentle, clear, and immediately useful.**
+- Kids learn AI safety through simple, playful steps  
+- Seniors navigate digital messages with confidence  
+- Small businesses train employees in safe AI usage  
+- Educators teach cybersecurity without fear, confusion, or jargon  
+
+Everything here is **gentle, clear, empowering, and immediately useful**.
 
 ---
 
 # ❤️ Author
 
-Created by **Aqueelah Emanuel**,  
-Cybersecurity Analyst, Educator, and Founder of *AQ’s Corner LLC*  
-Where Motherhood Meets Cybersecurity™  
+Created by **Aqueelah Emanuel**  
+Cybersecurity Analyst, AI Safety Educator, and Founder of **AQ’s Corner LLC**  
+*Where Motherhood Meets Cybersecurity™*
 
 ---
 
 # 🌐 License
-Feel free to use this for classrooms, workshops, and community education.
+
+Free to use for:
+- Classrooms  
+- Workshops  
+- Libraries  
+- Senior programs  
+- Community education  
+
+Please credit **AQ’s Corner LLC** when sharing or presenting.
